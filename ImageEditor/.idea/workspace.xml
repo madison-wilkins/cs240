@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c175ca4-52f6-427b-81b8-890eae3604be" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QhlWCsfSD9ykD2i6Gl9vOU58G1" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/passoff" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ImageEditorTest">
+    <configuration name="ImageEditorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageEditor1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.test_files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff.test_files" />
+      <option name="MAIN_CLASS_NAME" value="passoff.test_files.ImageEditorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageEditorTest.embossFeepTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageEditor1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.test_files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff.test_files" />
+      <option name="MAIN_CLASS_NAME" value="passoff.test_files.ImageEditorTest" />
+      <option name="METHOD_NAME" value="embossFeepTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageEditorTest.embossMemeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageEditor1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.test_files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff.test_files" />
+      <option name="MAIN_CLASS_NAME" value="passoff.test_files.ImageEditorTest" />
+      <option name="METHOD_NAME" value="embossMemeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageEditorTest.embossTinyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageEditor1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.test_files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff.test_files" />
+      <option name="MAIN_CLASS_NAME" value="passoff.test_files.ImageEditorTest" />
+      <option name="METHOD_NAME" value="embossTinyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageEditorTest.grayscaleTinyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageEditor1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.test_files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff.test_files" />
+      <option name="MAIN_CLASS_NAME" value="passoff.test_files.ImageEditorTest" />
+      <option name="METHOD_NAME" value="grayscaleTinyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ImageEditorTest" />
+        <item itemvalue="JUnit.ImageEditorTest.embossMemeTest" />
+        <item itemvalue="JUnit.ImageEditorTest.embossFeepTest" />
+        <item itemvalue="JUnit.ImageEditorTest.embossTinyTest" />
+        <item itemvalue="JUnit.ImageEditorTest.grayscaleTinyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c175ca4-52f6-427b-81b8-890eae3604be" name="Default Changelist" comment="" />
+      <created>1568230737282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568230737282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
